@@ -1,0 +1,28 @@
+body{
+    padding: 0px 0px;
+}
+
+.peak {
+   
+    margin: 1px 121px;
+    /* padding: 10px 16px; */
+    padding: 10px 16px;
+}
+.re1{
+    display: flex;
+}.row{
+    /* align-items: center; */
+    text-align: center;
+}
+.im{
+    border-radius: 63px;
+}
+.peak h2{
+    text-align: center;
+    font-size: 22px;
+}
+.peak p{
+   
+    text-align: center;
+    font-size: 16px;
+}
