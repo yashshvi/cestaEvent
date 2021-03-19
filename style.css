@@ -17,15 +17,15 @@ padding: 0px 0px;
 
 /* footer */
 .row {
-    display: flex;
-    flex-direction: row;
-    position: relative;
-    left: 0px;
-    top: 132px;
-    bottom: 0px;
-    padding: 4px 21px;
-    width: 100%;
-    text-align: center;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left: 0px;
+  top: 166px;
+  bottom: 0px;
+  padding: 4px 21px;
+  width: 100%;
+  text-align: center;
 }
     /* main */
     #home {
